@@ -1,0 +1,20 @@
+
+#login as root
+	mysql -u root
+
+#Create an DB
+	create database INVENTORY;
+
+#Permission setup for the databse
+	#with username: community
+	#with password: mysql01
+	GRANT ALL PRIVILEGES ON INVENTORY.* TO 'community'@'localhosl'
+	IDENTIFIED BY 'mysql01' WITH GRANT OPTION;
+
+	GRANT ALL PRIVILEGES ON INVENTORY.* TO 'community'@'%' IDENTIFIED BY
+	'mysql01' WITH GRANT OPTION;
+
+	FLUSH PRIVILEGES;
+
+# Check setup user login and password
+	mysql -u community -p
