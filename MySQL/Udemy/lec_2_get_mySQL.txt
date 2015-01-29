@@ -1,0 +1,25 @@
+Host
+	90% company
+	Hostgator
+
+phpMyAdmin 
+	- alternative to command line
+
+Create database
+
+Create users
+
+Add created user to created DB
+	- specify the previliges
+
+
+How to see my created databases?
+	- phpMyAdmin
+		- The phpMyAdmin page:
+		This is where we type our SQL command
+		- all DB on the left hand side
+		
+
+
+
+

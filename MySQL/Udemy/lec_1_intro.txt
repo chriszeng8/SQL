@@ -1,0 +1,16 @@
+Table
+	columns are categories, rows are entries.
+	
+	Name   Age  Profession
+	Bucky  25   Shephard
+	Lisa   68   Magician
+
+Primary Keys
+	- all tables should have primary keys 
+	- column that is 100% unique (e.g., SSN)
+
+SQL
+	- SQL is the language
+	- MySQL is a program that understands SQL
+
+
