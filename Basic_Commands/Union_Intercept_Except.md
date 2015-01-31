@@ -10,7 +10,7 @@ select sName from Student;
 ```
 By default, sql chooses cName to label the queried results. 
 
- **Unify Label Name (with renaming) **
+**Unify Label Name (with renaming) **
  
 If we would like to unify the label name, we can use ```select tablename as newname```
 ```{sql,echo=F}
