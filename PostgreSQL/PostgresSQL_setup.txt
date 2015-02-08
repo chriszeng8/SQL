@@ -1,0 +1,3 @@
+sudo su -u postgres
+cd /Library/PostgreSQL/9.4/bin/ 
+./psql
