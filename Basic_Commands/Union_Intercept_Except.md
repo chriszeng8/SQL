@@ -1,4 +1,4 @@
-# SQL
+l# SQL
 ## [Set Operators](https://class.stanford.edu/courses/Engineering/db/2014_1/courseware/ch-sql/seq-vid-table_variables_and_set_operators/)
 ### Union Operator
 
