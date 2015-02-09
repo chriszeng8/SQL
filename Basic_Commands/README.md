@@ -1,0 +1,2 @@
+####EXIST & NOT EXIST
+See this [link](http://dev.mysql.com/doc/refman/5.7/en/exists-and-not-exists-subqueries.html) for discussion and examples. Basically, to copy the first line from the above reference, "If a subquery returns any rows at all, EXISTS subquery is ```TRUE```, and NOT EXISTS subquery is ```FALSE```".
